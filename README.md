@@ -1,2 +1,2 @@
-# Assignment-1_AfiaAli_ProgrammingHero
- Assignment-1 Afia Ali Programming Hero
+# A1_AfiaAli
+ Assignment 1 Programming Hero
